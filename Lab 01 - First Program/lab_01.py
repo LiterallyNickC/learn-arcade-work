@@ -1,0 +1,7 @@
+print("a story in 4 parts")
+print("I woke up, a morning for the taking")
+print("I went to the bathroom")
+print("I checked my emails, one that said \'make sure to report to me in the morning'")
+print("I got out of bed")
+print("My wife is going to be mad")
+print("fin")
